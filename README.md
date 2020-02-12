@@ -1,6 +1,6 @@
 # info201CollabPractice
 
-##Cats vs Dogs, a new story
+## Cats vs Dogs, a new story
 
 ``` {r}
 if(cat > dog) {
