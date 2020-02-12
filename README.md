@@ -19,6 +19,6 @@ return("dog wins")
 }
 ```
 
-### Part Three 
+### Part Three
 
 > Figured it out
