@@ -18,3 +18,7 @@ return("cat wins")
 return("dog wins")
 }
 ```
+
+### Part Three 
+
+> Figured it out
